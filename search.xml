@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F02%2F01%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <tags>
+        <tag>测试文章</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[html网页和网页结构]]></title>
+    <url>%2F2019%2F02%2F01%2Fhtml%E7%BD%91%E9%A1%B5%E5%92%8C%E7%BD%91%E9%A1%B5%E7%BB%93%E6%9E%84%2F</url>
+    <content type="text"><![CDATA[学习目的 认识网页的基本组成和标准 熟悉 HTML 的组成结构 1、认识网页 网页组成：由文字、图片、按钮、搜索框、视频等元素（HTML 标签）组成，还包含音频、视频、FLASH等总结：网页其实就是由HTML标签组成的。 网页标准 结构标准：（相当于人的身体）HTML → 搭建网页结构 表现标准：（相当于人的衣服）CSS → 美化网页 行为标准：（相当于人的动作）Javascript 浏览器 浏览器是网页运行的平台，常用的浏览器有 IE、火狐（Firefox）、谷歌（Chrome）、Safari 和 Opera等。 内核（渲染引擎）： 将网页中的标签信息转化为我们人眼能够识别的图文信息。 2、网页结构 什么是 HTML HTML：Hyper Text Markup Language 超文本：在网页中能够实现页面跳转的文字（超链接） 标记：指的是在网页中的 html 标签 HTML 结构介绍 本文是基于 html5 结构去设计网页的。 html>123456&lt;html&gt; &lt;head&gt; &lt;title&gt;网页标题&lt;title&gt; &lt;/head&gt; &lt;body&gt; &lt;/body&gt;&lt;/html&gt; 详细介绍结构中的标签 DOCTYPE 标签：告诉浏览器当前文档的类型，如果不设置 DOCTYPE 那么浏览器在显示过程中可能会出现一种怪异模式。 html 标签：结构中的根标签 head 标签： 可以设置网页样式；可以设置网页标题；设置网页关键字；网页描述信息；js 代码编写。 title 标签： 设置网页标题 body 标签： 指的是网页的主体（我们看到的所有信息）]]></content>
+      <categories>
+        <category>html</category>
+      </categories>
+      <tags>
+        <tag>html</tag>
+      </tags>
+  </entry>
+</search>
